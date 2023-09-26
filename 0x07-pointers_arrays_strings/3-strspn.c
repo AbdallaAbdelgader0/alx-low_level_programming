@@ -1,5 +1,11 @@
 #include "mian.h"
-
+/**
+ * _strspn - git the length of prefix substring.
+ *
+ * @s: string.
+ * @accept: bytes.
+ * Return: unsigned int.
+ */
 
 unsigned int _strspn(char *s, char *accept)
 {
